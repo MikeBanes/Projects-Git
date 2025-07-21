@@ -1,5 +1,5 @@
 # Projects-Git
 testing
 MikeBanes
-username?
+username? = MikeBanes
 Now whaT?
